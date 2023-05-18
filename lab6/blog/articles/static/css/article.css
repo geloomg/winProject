@@ -1,0 +1,145 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #333;
+}
+
+.header img {
+display: block;
+width: 318px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.archive {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.post-title a {
+color: #ffffff;
+}
+
+.article-author {
+width: 50%;
+float: left;
+}
+
+.article-created-date {
+text-align: right;
+}
+
+.article {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.all-articles a {
+color: #ffffff;
+}
+
+.all-articles {
+text-align: right;
+}
+
+.title input {
+  display:block;
+  width:50%;
+  margin:10px 0;
+  padding:10px;
+}
+
+.text textarea {
+  display:block;
+  width:50%;
+  height: 100px;
+  margin:10px 0;
+  padding:10px;
+}
+
+.button_reg input {
+  display:block;
+  width:500 px;
+  text_align: center;
+  margin:10px 0;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button_art input {
+  display:block;
+  width:300 px;
+  text_align: center;
+  margin:10px 0;
+  padding:10px;
+}
+
+.registration {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.username input {
+  display:block;
+  width:25%;
+  margin:10px 0;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.email input {
+  display:block;
+  width:25%;
+  margin:10px 0;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.password input {
+  display:block;
+  width:25%;
+  margin:10px 0;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.registration h1 {
+text-align: center;
+}
+
+.errors {
+text-align: center;
+}
+
+.header h3 {
+text-align: right;
+}
+
+.header {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 5%;
+}
+
+.header a {
+color: #ffffff;
+}
+
+.button_log input {
+  display:block;
+  width:100px;
+  text_align: center;
+  margin:10px 0;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
